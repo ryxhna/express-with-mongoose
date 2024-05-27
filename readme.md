@@ -1,7 +1,7 @@
 Start project uding express <br>
-`npm init -y`
-`npm i express`
-`npm i bcrypt cors dotenv jsonwebtoken mongodb mongoose multer nodemon validator`<br><br>
+`npm init -y
+npm i express
+npm i bcrypt cors dotenv jsonwebtoken mongodb mongoose multer nodemon validator`<br><br>
 
 Upload to GitHub<br>
 `git remote -v`
