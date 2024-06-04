@@ -7,5 +7,5 @@ Upload to GitHub<br>
 `git remote -v`<br>
 `git --version`<br>
 `git remote remove origin`<br>
-`git remote add origin https://github.com/ryxhna/urskins.git`<br>
+`git remote add origin https://github.com/ryxhna/express-with-mongoose.git`<br>
 `git push -u origin main`<br>
